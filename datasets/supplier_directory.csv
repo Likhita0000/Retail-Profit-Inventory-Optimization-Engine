@@ -1,0 +1,81 @@
+supplier_id,supplier_name,lead_time_days,reliability_score
+SUP0001,Supplier 1,17,0.824
+SUP0002,Supplier 2,17,0.824
+SUP0003,Supplier 3,14,0.845
+SUP0004,Supplier 4,2,1.04
+ SUP0005 ,Supplier 5,14,0.897
+ SUP0006 ,Supplier 6,15,0.708
+SUP0007,Supplier 7,14,1.04
+SUP0008,Supplier 8,3,0.914
+SUP0009,Supplier 9,14,0.782
+SUP0010,Supplier 10,12,0.74
+SUP0011,Supplier 11,15,0.74
+SUP0012,Supplier 12,8,0.858
+SUP0013,Supplier 13,11,1.042
+ SUP0014 ,Supplier 14,17,0.883
+SUP0015,Supplier 15,18,0.84
+ SUP0016 ,Supplier 16,15,0.932
+SUP0017,Supplier 17,16,0.729
+SUP0018,Supplier 18,23,0.824
+SUP0019,Supplier 19,21,0.939
+SUP0020,Supplier 20,19,0.755
+SUP0021,Supplier 21,4,1.023
+ SUP0022 ,Supplier 22,15,1.017
+SUP0023,Supplier 23,3,0.938
+SUP0024,Supplier 24,18,0.782
+SUP0025,Supplier 25,7,1.081
+SUP0026,Supplier 26,2,0.984
+SUP0027,Supplier 27,13,1.062
+ SUP0028 ,Supplier 28,6,1.033
+SUP0029,Supplier 29,15,0.86
+SUP0030,Supplier 30,,0.817
+SUP0031,Supplier 31,15,0.791
+SUP0032,Supplier 32,15,1.029
+SUP0033,Supplier 33,20,0.755
+SUP0034,Supplier 34,2,0.967
+SUP0035,Supplier 35,23,0.776
+sup0036,Supplier 36,24,1.009
+SUP0037,Supplier 37,7,0.826
+SUP0038,Supplier 38,21,0.824
+SUP0039,Supplier 39,17,1.091
+SUP0040,Supplier 40,17,0.955
+SUP0041,Supplier 41,22,1.019
+SUP0042,Supplier 42,12,0.84
+ SUP0043 ,Supplier 43,19,0.898
+SUP0044,Supplier 44,10,0.873
+SUP0045,Supplier 45,11,0.759
+SUP0046,Supplier 46,23,1.096
+SUP0047,Supplier 47,9,1.019
+sup0048,Supplier 48,8,0.905
+SUP0049,Supplier 49,17,1.062
+SUP0050,Supplier 50,12,0.835
+SUP0051,Supplier 51,7,0.86
+SUP0052,Supplier 52,8,1.077
+SUP0053,Supplier 53,8,0.816
+SUP0054,Supplier 54,4,0.88
+SUP0055,Supplier 55,6,0.763
+SUP0056,Supplier 56,20,0.817
+SUP0057,Supplier 57,21,0.932
+SUP0058,Supplier 58,8,1.1
+SUP0059,Supplier 59,20,0.939
+SUP0060,Supplier 60,,1.009
+SUP0061,Supplier 61,5,0.944
+SUP0062,Supplier 62,15,0.857
+SUP0063,Supplier 63,5,1.056
+SUP0064,Supplier 64,7,0.903
+SUP0065,Supplier 65,22,0.891
+SUP0066,Supplier 66,,0.963
+ SUP0067 ,Supplier 67,16,1.035
+sup0068,Supplier 68,,1.04
+sup0069,Supplier 69,5,0.731
+SUP0070,Supplier 70,9,0.826
+SUP0071,Supplier 71,5,0.902
+SUP0072,Supplier 72,15,0.758
+SUP0073,Supplier 73,21,1.056
+ SUP0074 ,Supplier 74,9,1.017
+SUP0075,Supplier 75,14,1.081
+SUP0076,Supplier 76,9,0.781
+SUP0077,Supplier 77,16,0.991
+SUP0078,Supplier 78,23,1.042
+SUP0079,Supplier 79,21,0.715
+SUP0080,Supplier 80,3,0.728

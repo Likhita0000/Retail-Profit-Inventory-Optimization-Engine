@@ -1,0 +1,506 @@
+sku_code,product_name,category_name,brand_name,standard_cost,list_price,active_flag
+SKU00001,Product Item 1,Apparel,BrandF,147.83,138.83,1
+SKU00002,Product Item 2,Home,BrandJ,32.75,107.41,Y
+ SKU00003 ,Product Item 3,Electronics,BrandJ,120.04,94.64,1
+SKU00004,Product Item 4,Seasonal,BrandC,57.52,185.4,1
+SKU00005,Product Item 5,Apparel,BrandH,182.19,$238.23,1
+SKU00006,Product Item 6,HOME ,BrandH,,195.99,1
+SKU00007,Product Item 7,Eletronics,BrandB,70.63,,1
+SKU00008,Product Item 8,Apparel,BrandN,64.9,98.57,1
+SKU00009,Product Item 9,Home,BrandD,,216.86,1
+SKU00010,Product Item 10,PersonalCare,BrandD,176.3,146.82,0
+SKU00011,Product Item 11,Seasonal,BrandI,165.53,351.87,1
+SKU00012,Product Item 12,Electronics,BrandO,59.01,29.6,Y
+SKU00013,Product Item 13,Eletronics,BrandA,36.27,279.4,N
+SKU00014,Product Item 14,PersonalCare,BrandD,56.02,285.83,1
+SKU00015,Product Item 15,apparel,BrandC,152.18,386.08,N
+SKU00016,Product Item 16,Apparel,BrandJ,84.37,248.64,1
+SKU00017,Product Item 17,Electronics,BrandD,188.29,127.14,1
+ SKU00018 ,Product Item 18,Eletronics,BrandL,38.74,12.55,1
+SKU00019,Product Item 19,Apparel,BrandC,20.99,283.16,1
+SKU00020,Product Item 20,Eletronics,BrandJ,78.01,241.4,1
+SKU00021,Product Item 21,Seasonal,BrandL,116.03,302.63,1
+SKU00022,Product Item 22,Electronics,BrandD,166.57,356.41,1
+SKU00023,Product Item 23,PersonalCare,BrandA,183.43,63.99,1
+ SKU00024 ,Product Item 24,apparel,BrandK,27.83,,1
+SKU00025,Product Item 25,PersonalCare,BrandE,39.74,355.37,1
+SKU00026,Product Item 26,Apparel,BrandB,102.71,122.86,1
+SKU00027,Product Item 27,PersonalCare,BrandB,166.51,63.06,1
+SKU00028,Product Item 28,HOME ,BrandE,144.47,51.74,0
+ SKU00029 ,Product Item 29,Electronics,BrandL,$114.21,62.44,1
+SKU00030,Product Item 30,Eletronics,BrandM,54.2,116.38,N
+SKU00031,Product Item 31,Seasonal,BrandJ,163.07,134.87,0
+SKU00032,Product Item 32,Eletronics,BrandL,122.17,191.1,1
+SKU00033,Product Item 33,Home,BrandA,189.54,214.7,N
+SKU00034,Product Item 34,Seasonal,BrandD,,$64.15,1
+SKU00035,Product Item 35,PersonalCare,BrandH,95.24,105.61,N
+ SKU00036 ,Product Item 36,Apparel,BrandF,144.92,358.42,1
+sku00037,Product Item 37,PersonalCare,BrandL,196.8,207.49,
+SKU00038,Product Item 38,Home,BrandA,99.34,362.26,1
+SKU00039,Product Item 39,Seasonal,BrandC,177.96,18.53,0
+SKU00040,Product Item 40,apparel,BrandB,25.58,390.10,1
+SKU00041,Product Item 41,Home,BrandM,28.33,123.69,1
+SKU00042,Product Item 42,Eletronics,BrandG,82.76,109.13,
+SKU00043,Product Item 43,Seasonal,BrandE,125.66,319.41,1
+SKU00044,Product Item 44,PersonalCare,BrandO,77.72,129.13,0
+SKU00045,Product Item 45,PersonalCare,BrandA,75.29,222.06,1
+SKU00046,Product Item 46,apparel,BrandF,$107.77,259.23,1
+sku00047,Product Item 47,Seasonal,BrandK,160.7,305.64,1
+SKU00048,Product Item 48,PersonalCare,BrandM,107.06,61.70,1
+ SKU00049 ,Product Item 49,apparel,BrandE,125.45,23.62,1
+SKU00050,Product Item 50,HOME ,BrandE,142.8,137.08,1
+SKU00051,Product Item 51,Home,BrandM,90.21,181.87,1
+SKU00052,Product Item 52,Seasonal,BrandK,136.7,$36.18,0
+ SKU00053 ,Product Item 53,Apparel,BrandE,96.8,83.24,0
+SKU00054,Product Item 54,Eletronics,BrandC,72.07,30.88,1
+SKU00055,Product Item 55,Eletronics,BrandJ,180.98,$129.16,1
+SKU00056,Product Item 56,Electronics,BrandL,35.42,289.51,1
+SKU00057,Product Item 57,Eletronics,BrandL,178.88,119.55,1
+SKU00058,Product Item 58,Eletronics,BrandC,60.89,215.8,1
+SKU00059,Product Item 59,Apparel,BrandO,94.54,383.06,1
+SKU00060,Product Item 60,Apparel,BrandI,90.41,342.13,1
+SKU00061,Product Item 61,Electronics,BrandA,59.79,391.79,N
+SKU00062,Product Item 62,Seasonal,BrandA,162.92,76.98,1
+SKU00063,Product Item 63,PersonalCare,BrandN,96.26,289.23,1
+SKU00064,Product Item 64,HOME ,BrandJ,185.72,29.83,1
+SKU00065,Product Item 65,Seasonal,BrandB,184.34,170.72,1
+SKU00066,Product Item 66,Electronics,BrandI,104.72,,1
+SKU00067,Product Item 67,Home,BrandJ,121.35,227.77,1
+SKU00068,Product Item 68,Apparel,BrandK,106.71,337.81,1
+ SKU00069 ,Product Item 69,apparel,BrandC,$57.68,34.42,1
+SKU00070,Product Item 70,HOME ,BrandE,49.61,196.01,1
+SKU00071,Product Item 71,Home,BrandI,101.45,141.15,1
+SKU00072,Product Item 72,Home,BrandJ,43.46,57.06,1
+SKU00073,Product Item 73,Seasonal,BrandL,171.07,91.81,1
+SKU00074,Product Item 74,Seasonal,BrandG,,$384.03,1
+SKU00075,Product Item 75,Eletronics,BrandK,157.9,343.67,1
+SKU00076,Product Item 76,HOME ,BrandF,79.91,392.14,1
+SKU00077,Product Item 77,HOME ,BrandJ,58.6,344.42,1
+SKU00078,Product Item 78,HOME ,BrandK,12.88,165.56,1
+SKU00079,Product Item 79,apparel,BrandG,197.13,191.30,1
+SKU00080,Product Item 80,Eletronics,BrandG,195.89,66.94,1
+SKU00081,Product Item 81,Electronics,BrandA,113.26,181.09,1
+SKU00082,Product Item 82,PersonalCare,BrandN,166.86,207.42,0
+SKU00083,Product Item 83,Seasonal,BrandN,67.94,122.31,1
+SKU00084,Product Item 84,Seasonal,BrandB,153.6,$200.77,1
+SKU00085,Product Item 85,apparel,BrandA,23.54,270.14,1
+SKU00086,Product Item 86,Apparel,BrandF,167.2,267.92,1
+SKU00087,Product Item 87,apparel,BrandD,173.64,238.1,N
+SKU00088,Product Item 88,Eletronics,BrandL,79.05,50.93,1
+SKU00089,Product Item 89,Apparel,BrandE,189.31,244.37,0
+SKU00090,Product Item 90,Electronics,BrandF,195.57,353.37,1
+SKU00091,Product Item 91,Home,BrandJ,157.12,322.56,1
+SKU00092,Product Item 92,apparel,BrandF,66.99,265.6,1
+SKU00093,Product Item 93,Electronics,BrandD,4.4,10.86,1
+SKU00094,Product Item 94,Seasonal,BrandF,98.53,$274.43,Y
+SKU00095,Product Item 95,HOME ,BrandD,93.26,205.24,N
+SKU00096,Product Item 96,apparel,BrandI,148.9,$262.56,1
+SKU00097,Product Item 97,Electronics,BrandO,3.57,20.8,0
+SKU00098,Product Item 98,Home,BrandA,79.39,72.08,1
+SKU00099,Product Item 99,PersonalCare,BrandN,,342.43,1
+SKU00100,Product Item 100,PersonalCare,BrandE,97.08,285.95,1
+SKU00101,Product Item 101,Eletronics,BrandG,146.38,180.52,1
+SKU00102,Product Item 102,Eletronics,BrandD,53.86,382.15,1
+SKU00103,Product Item 103,Eletronics,BrandG,5.91,126.49,
+SKU00104,Product Item 104,PersonalCare,BrandD,108.23,258.74,1
+SKU00105,Product Item 105,Eletronics,BrandK,$182.62,168.07,1
+SKU00106,Product Item 106,apparel,BrandL,95.96,82.9,1
+SKU00107,Product Item 107,Electronics,BrandL,36.48,299.69,0
+SKU00108,Product Item 108,Eletronics,BrandC,167.51,236.82,N
+SKU00109,Product Item 109,apparel,BrandL,192.66,303.23,1
+SKU00110,Product Item 110,HOME ,BrandA,195.43,185.0,1
+SKU00111,Product Item 111,Eletronics,BrandL,53.52,353.48,1
+SKU00112,Product Item 112,Eletronics,BrandD,32.41,363.53,1
+SKU00113,Product Item 113,HOME ,BrandB,8.26,182.55,1
+SKU00114,Product Item 114,Eletronics,BrandD,62.64,$5.40,1
+SKU00115,Product Item 115,PersonalCare,BrandG,12.38,244.68,1
+SKU00116,Product Item 116,Eletronics,BrandA,47.44,166.33,1
+sku00117,Product Item 117,Apparel,BrandH,175.0,170.61,0
+SKU00118,Product Item 118,Electronics,BrandI,123.27,261.04,1
+SKU00119,Product Item 119,Electronics,BrandH,156.69,329.42,
+SKU00120,Product Item 120,Home,BrandK,106.16,245.81,1
+SKU00121,Product Item 121,HOME ,BrandK,$44.30,70.45,
+SKU00122,Product Item 122,PersonalCare,BrandB,156.58,83.75,1
+SKU00123,Product Item 123,Electronics,BrandI,116.55,77.09,N
+SKU00124,Product Item 124,apparel,BrandH,145.88,28.66,0
+SKU00125,Product Item 125,Electronics,BrandF,110.91,40.86,1
+SKU00126,Product Item 126,Electronics,BrandI,119.26,228.01,Y
+SKU00127,Product Item 127,Home,BrandG,54.96,217.97,1
+SKU00128,Product Item 128,HOME ,BrandN,78.52,8.29,1
+SKU00129,Product Item 129,Home,BrandN,26.21,92.95,1
+sku00130,Product Item 130,Apparel,BrandJ,18.49,97.30,1
+SKU00131,Product Item 131,Seasonal,BrandD,82.31,377.2,1
+SKU00132,Product Item 132,PersonalCare,BrandB,69.29,71.96,N
+SKU00133,Product Item 133,Electronics,BrandM,131.74,117.76,1
+SKU00134,Product Item 134,Eletronics,BrandC,97.21,76.18,1
+SKU00135,Product Item 135,Seasonal,BrandJ,33.39,$47.89,Y
+SKU00136,Product Item 136,HOME ,BrandI,42.75,97.13,1
+SKU00137,Product Item 137,Home,BrandG,30.05,7.13,1
+SKU00138,Product Item 138,Seasonal,BrandM,189.25,326.88,1
+SKU00139,Product Item 139,PersonalCare,BrandD,125.08,221.68,1
+SKU00140,Product Item 140,PersonalCare,BrandC,104.59,81.66,1
+SKU00141,Product Item 141,Seasonal,BrandN,39.95,178.29,1
+SKU00142,Product Item 142,PersonalCare,BrandE,32.05,24.41,1
+SKU00143,Product Item 143,Eletronics,BrandE,161.27,49.76,0
+SKU00144,Product Item 144,Seasonal,BrandE,102.97,122.21,1
+SKU00145,Product Item 145,Seasonal,BrandE,$99.31,153.29,1
+SKU00146,Product Item 146,Apparel,BrandI,4.31,210.87,N
+SKU00147,Product Item 147,HOME ,BrandH,54.1,208.75,1
+SKU00148,Product Item 148,Eletronics,BrandK,50.74,184.54,1
+SKU00149,Product Item 149,apparel,BrandI,141.87,110.49,1
+SKU00150,Product Item 150,HOME ,BrandA,159.58,54.09,0
+ SKU00151 ,Product Item 151,HOME ,BrandD,85.63,24.97,0
+SKU00152,Product Item 152,Electronics,BrandL,88.98,204.91,1
+sku00153,Product Item 153,apparel,BrandL,158.73,244.71,1
+SKU00154,Product Item 154,Apparel,BrandL,,194.13,0
+SKU00155,Product Item 155,PersonalCare,BrandE,125.23,223.38,1
+SKU00156,Product Item 156,PersonalCare,BrandB,132.1,396.06,1
+SKU00157,Product Item 157,apparel,BrandF,191.73,26.16,1
+SKU00158,Product Item 158,Eletronics,BrandK,87.08,63.74,1
+SKU00159,Product Item 159,Apparel,BrandH,182.07,364.52,1
+SKU00160,Product Item 160,apparel,BrandH,195.76,73.3,1
+SKU00161,Product Item 161,HOME ,BrandO,65.99,225.37,1
+SKU00162,Product Item 162,PersonalCare,BrandD,99.17,110.56,0
+SKU00163,Product Item 163,Apparel,BrandA,79.73,372.94,1
+SKU00164,Product Item 164,Seasonal,BrandF,36.86,272.37,
+SKU00165,Product Item 165,Apparel,BrandF,171.65,52.95,1
+SKU00166,Product Item 166,Home,BrandB,37.97,91.71,1
+SKU00167,Product Item 167,Seasonal,BrandI,40.53,181.87,1
+SKU00168,Product Item 168,PersonalCare,BrandA,154.94,343.94,1
+SKU00169,Product Item 169,PersonalCare,BrandH,17.33,$201.68,1
+SKU00170,Product Item 170,Seasonal,BrandM,199.23,145.28,1
+SKU00171,Product Item 171,Home,BrandF,135.26,32.68,N
+SKU00172,Product Item 172,HOME ,BrandM,44.05,67.87,N
+SKU00173,Product Item 173,apparel,BrandA,174.37,25.28,1
+SKU00174,Product Item 174,apparel,BrandC,99.25,300.84,1
+SKU00175,Product Item 175,Apparel,BrandJ,158.80,382.98,1
+SKU00176,Product Item 176,Seasonal,BrandC,165.65,225.03,1
+SKU00177,Product Item 177,HOME ,BrandC,188.58,290.59,1
+SKU00178,Product Item 178,Home,BrandE,77.91,89.03,0
+SKU00179,Product Item 179,Eletronics,BrandD,$157.41,53.92,1
+SKU00180,Product Item 180,Seasonal,BrandO,9.44,268.89,1
+SKU00181,Product Item 181,Apparel,BrandC,52.71,$357.61,1
+SKU00182,Product Item 182,Electronics,BrandB,116.32,204.9,1
+SKU00183,Product Item 183,HOME ,BrandJ,33.38,103.33,1
+SKU00184,Product Item 184,HOME ,BrandG,79.31,198.69,1
+SKU00185,Product Item 185,PersonalCare,BrandD,37.52,56.88,1
+SKU00186,Product Item 186,Electronics,BrandK,17.54,225.82,1
+SKU00187,Product Item 187,apparel,BrandC,23.83,51.96,
+sku00188,Product Item 188,Eletronics,BrandM,133.16,$337.40,1
+SKU00189,Product Item 189,PersonalCare,BrandH,120.16,282.68,1
+SKU00190,Product Item 190,HOME ,BrandN,138.2,135.48,1
+SKU00191,Product Item 191,Electronics,BrandO,172.77,359.1,0
+SKU00192,Product Item 192,Eletronics,BrandC,85.72,265.74,1
+SKU00193,Product Item 193,Seasonal,BrandD,40.96,335.15,0
+SKU00194,Product Item 194,apparel,BrandL,105.46,263.45,1
+SKU00195,Product Item 195,Electronics,BrandC,198.56,311.05,1
+SKU00196,Product Item 196,apparel,BrandH,167.68,208.82,1
+SKU00197,Product Item 197,Seasonal,BrandB,90.68,297.34,1
+SKU00198,Product Item 198,Home,BrandM,85.79,354.04,0
+SKU00199,Product Item 199,Eletronics,BrandD,193.64,213.02,1
+SKU00200,Product Item 200,Apparel,BrandF,51.37,282.05,1
+SKU00201,Product Item 201,Seasonal,BrandL,38.25,233.06,1
+SKU00202,Product Item 202,Seasonal,BrandI,51.89,37.71,1
+SKU00203,Product Item 203,PersonalCare,BrandH,198.11,87.87,0
+SKU00204,Product Item 204,PersonalCare,BrandL,27.54,171.39,0
+SKU00205,Product Item 205,Seasonal,BrandO,78.46,48.3,1
+SKU00206,Product Item 206,Seasonal,BrandK,107.72,93.23,1
+ SKU00207 ,Product Item 207,Electronics,BrandM,115.57,266.2,1
+SKU00208,Product Item 208,Home,BrandI,57.31,255.15,1
+SKU00209,Product Item 209,apparel,BrandK,53.93,69.64,N
+SKU00210,Product Item 210,apparel,BrandL,71.5,$355.73,N
+SKU00211,Product Item 211,Home,BrandA,145.36,381.04,
+SKU00212,Product Item 212,Seasonal,BrandE,137.82,351.56,0
+SKU00213,Product Item 213,Eletronics,BrandA,131.71,222.91,1
+SKU00214,Product Item 214,Apparel,BrandL,191.17,319.25,Y
+SKU00215,Product Item 215,apparel,BrandF,111.26,111.41,1
+SKU00216,Product Item 216,Home,BrandJ,173.36,252.27,
+SKU00217,Product Item 217,Eletronics,BrandJ,25.99,165.33,N
+SKU00218,Product Item 218,Seasonal,BrandA,78.73,15.22,1
+ SKU00219 ,Product Item 219,Electronics,BrandC,154.99,73.74,1
+ SKU00220 ,Product Item 220,HOME ,BrandJ,182.41,290.42,1
+ SKU00221 ,Product Item 221,Seasonal,BrandH,104.54,216.14,1
+SKU00222,Product Item 222,Home,BrandD,80.08,13.61,1
+ SKU00223 ,Product Item 223,HOME ,BrandM,136.85,344.37,1
+SKU00224,Product Item 224,HOME ,BrandA,103.41,96.13,N
+SKU00225,Product Item 225,Eletronics,BrandA,106.74,121.36,N
+SKU00226,Product Item 226,Electronics,BrandA,181.87,280.1,1
+SKU00227,Product Item 227,apparel,BrandJ,83.91,267.41,1
+SKU00228,Product Item 228,apparel,BrandM,161.02,310.25,1
+SKU00229,Product Item 229,Electronics,BrandD,171.61,106.72,Y
+SKU00230,Product Item 230,HOME ,BrandM,199.64,165.09,N
+SKU00231,Product Item 231,Electronics,BrandE,98.27,$337.91,N
+SKU00232,Product Item 232,Home,BrandD,121.68,366.49,1
+SKU00233,Product Item 233,Seasonal,BrandG,49.4,305.94,1
+SKU00234,Product Item 234,PersonalCare,BrandO,121.03,292.01,1
+SKU00235,Product Item 235,Electronics,BrandI,69.77,199.93,1
+SKU00236,Product Item 236,Apparel,BrandC,55.9,93.15,1
+SKU00237,Product Item 237,Home,BrandJ,121.59,317.65,1
+SKU00238,Product Item 238,Home,BrandB,145.28,208.45,1
+SKU00239,Product Item 239,Seasonal,BrandA,$94.36,,1
+SKU00240,Product Item 240,HOME ,BrandB,154.42,139.93,N
+SKU00241,Product Item 241,apparel,BrandM,3.09,224.11,1
+ SKU00242 ,Product Item 242,Home,BrandM,41.13,75.68,
+SKU00243,Product Item 243,apparel,BrandD,40.87,292.95,1
+SKU00244,Product Item 244,Electronics,BrandD,52.01,345.78,1
+SKU00245,Product Item 245,Seasonal,BrandA,10.37,143.24,1
+SKU00246,Product Item 246,Seasonal,BrandK,$182.29,305.49,1
+SKU00247,Product Item 247,Eletronics,BrandE,161.71,217.4,1
+SKU00248,Product Item 248,Eletronics,BrandE,127.48,389.51,
+SKU00249,Product Item 249,Electronics,BrandN,70.17,14.61,1
+SKU00250,Product Item 250,Home,BrandJ,$111.55,141.26,1
+SKU00251,Product Item 251,Eletronics,BrandK,85.84,229.34,1
+SKU00252,Product Item 252,Seasonal,BrandO,23.57,299.77,
+SKU00253,Product Item 253,apparel,BrandA,100.70,124.31,1
+SKU00254,Product Item 254,apparel,BrandH,171.3,145.43,1
+sku00255,Product Item 255,HOME ,BrandO,172.28,265.85,1
+SKU00256,Product Item 256,Seasonal,BrandJ,91.04,217.46,1
+SKU00257,Product Item 257,apparel,BrandJ,29.88,313.23,1
+SKU00258,Product Item 258,Eletronics,BrandJ,,,1
+SKU00259,Product Item 259,PersonalCare,BrandJ,$35.30,220.85,1
+SKU00260,Product Item 260,Eletronics,BrandO,16.57,32.93,1
+SKU00261,Product Item 261,Seasonal,BrandG,110.96,40.65,N
+SKU00262,Product Item 262,Eletronics,BrandK,197.2,343.59,1
+SKU00263,Product Item 263,Home,BrandH,130.02,261.38,1
+SKU00264,Product Item 264,HOME ,BrandN,137.04,273.23,1
+SKU00265,Product Item 265,Seasonal,BrandA,129.0,167.06,1
+SKU00266,Product Item 266,HOME ,BrandD,36.44,346.94,1
+SKU00267,Product Item 267,Electronics,BrandF,33.84,$139.83,1
+SKU00268,Product Item 268,HOME ,BrandK,156.16,191.38,0
+SKU00269,Product Item 269,HOME ,BrandK,84.87,260.5,N
+SKU00270,Product Item 270,apparel,BrandI,74.77,187.08,Y
+SKU00271,Product Item 271,Seasonal,BrandI,179.65,170.09,1
+SKU00272,Product Item 272,Seasonal,BrandL,139.34,347.45,1
+SKU00273,Product Item 273,apparel,BrandD,44.15,5.73,1
+SKU00274,Product Item 274,Apparel,BrandI,96.28,394.94,
+SKU00275,Product Item 275,PersonalCare,BrandN,$141.44,189.93,1
+SKU00276,Product Item 276,apparel,BrandF,18.97,101.03,1
+SKU00277,Product Item 277,Apparel,BrandJ,95.59,226.1,1
+ SKU00278 ,Product Item 278,apparel,BrandD,114.25,37.35,0
+SKU00279,Product Item 279,PersonalCare,BrandI,54.19,14.19,
+SKU00280,Product Item 280,Seasonal,BrandE,132.1,333.12,1
+SKU00281,Product Item 281,PersonalCare,BrandA,157.8,399.29,1
+SKU00282,Product Item 282,Seasonal,BrandD,48.45,172.6,1
+SKU00283,Product Item 283,apparel,BrandG,162.59,289.98,1
+SKU00284,Product Item 284,Seasonal,BrandG,44.04,283.95,N
+SKU00285,Product Item 285,Eletronics,BrandC,59.85,306.57,1
+SKU00286,Product Item 286,HOME ,BrandE,65.85,98.22,1
+SKU00287,Product Item 287,apparel,BrandD,98.92,322.58,Y
+SKU00288,Product Item 288,Home,BrandJ,101.94,190.48,1
+SKU00289,Product Item 289,Seasonal,BrandJ,148.9,337.2,1
+SKU00290,Product Item 290,apparel,BrandG,187.82,185.13,1
+SKU00291,Product Item 291,Apparel,BrandL,13.31,$111.53,1
+ SKU00292 ,Product Item 292,PersonalCare,BrandG,22.41,63.08,1
+SKU00293,Product Item 293,PersonalCare,BrandC,112.61,183.36,0
+SKU00294,Product Item 294,HOME ,BrandI,64.3,220.34,1
+SKU00295,Product Item 295,Seasonal,BrandA,146.68,57.87,N
+SKU00296,Product Item 296,PersonalCare,BrandN,33.81,30.33,
+SKU00297,Product Item 297,Electronics,BrandG,123.53,25.39,1
+SKU00298,Product Item 298,apparel,BrandC,25.04,96.24,1
+ SKU00299 ,Product Item 299,apparel,BrandH,122.97,366.66,1
+SKU00300,Product Item 300,Electronics,BrandB,41.39,304.37,1
+SKU00301,Product Item 301,Home,BrandG,49.41,9.23,1
+SKU00302,Product Item 302,Home,BrandL,104.31,66.94,1
+SKU00303,Product Item 303,PersonalCare,BrandG,$148.99,287.69,N
+SKU00304,Product Item 304,apparel,BrandD,98.99,118.36,
+SKU00305,Product Item 305,HOME ,BrandN,192.26,182.76,1
+SKU00306,Product Item 306,PersonalCare,BrandJ,32.45,$78.72,1
+SKU00307,Product Item 307,Apparel,BrandE,189.66,$43.02,1
+SKU00308,Product Item 308,Seasonal,BrandI,143.46,150.73,1
+SKU00309,Product Item 309,Apparel,BrandA,134.23,74.79,1
+SKU00310,Product Item 310,apparel,BrandM,10.09,170.04,1
+SKU00311,Product Item 311,apparel,BrandO,37.3,116.21,1
+SKU00312,Product Item 312,Seasonal,BrandI,153.27,392.15,1
+SKU00313,Product Item 313,Home,BrandH,156.89,369.58,1
+SKU00314,Product Item 314,apparel,BrandI,69.13,298.94,1
+SKU00315,Product Item 315,Apparel,BrandB,7.38,342.32,1
+SKU00316,Product Item 316,Apparel,BrandD,118.72,153.46,1
+ SKU00317 ,Product Item 317,PersonalCare,BrandC,172.53,354.67,0
+SKU00318,Product Item 318,Home,BrandB,112.71,179.64,1
+SKU00319,Product Item 319,apparel,BrandL,28.93,353.73,0
+SKU00320,Product Item 320,HOME ,BrandN,71.1,33.17,1
+SKU00321,Product Item 321,Home,BrandF,,$176.76,Y
+SKU00322,Product Item 322,HOME ,BrandL,44.09,63.88,1
+SKU00323,Product Item 323,Home,BrandG,54.33,9.44,
+SKU00324,Product Item 324,Eletronics,BrandC,167.44,$68.25,1
+SKU00325,Product Item 325,PersonalCare,BrandF,130.2,144.71,0
+SKU00326,Product Item 326,apparel,BrandB,4.59,140.38,1
+SKU00327,Product Item 327,Home,BrandO,15.84,171.25,1
+SKU00328,Product Item 328,apparel,BrandI,187.16,333.83,1
+SKU00329,Product Item 329,Seasonal,BrandJ,156.31,70.91,0
+SKU00330,Product Item 330,Seasonal,BrandD,35.94,$241.23,N
+SKU00331,Product Item 331,HOME ,BrandN,136.73,271.66,N
+sku00332,Product Item 332,Apparel,BrandJ,196.32,394.85,1
+SKU00333,Product Item 333,Eletronics,BrandK,101.58,156.67,1
+SKU00334,Product Item 334,PersonalCare,BrandM,112.13,157.47,1
+SKU00335,Product Item 335,apparel,BrandI,120.92,62.66,N
+SKU00336,Product Item 336,Home,BrandO,150.62,162.84,1
+SKU00337,Product Item 337,Seasonal,BrandE,24.96,276.6,1
+SKU00338,Product Item 338,PersonalCare,BrandD,45.12,76.22,1
+SKU00339,Product Item 339,Seasonal,BrandL,66.9,364.47,N
+SKU00340,Product Item 340,apparel,BrandN,82.54,50.97,1
+SKU00341,Product Item 341,apparel,BrandI,47.3,124.01,0
+SKU00342,Product Item 342,apparel,BrandC,8.81,$397.93,0
+SKU00343,Product Item 343,Electronics,BrandJ,101.42,322.87,1
+SKU00344,Product Item 344,Eletronics,BrandD,193.09,17.53,1
+SKU00345,Product Item 345,Apparel,BrandA,72.22,350.67,1
+SKU00346,Product Item 346,Seasonal,BrandD,55.66,353.1,0
+ SKU00347 ,Product Item 347,PersonalCare,BrandF,19.55,234.04,1
+SKU00348,Product Item 348,PersonalCare,BrandK,73.25,390.84,0
+SKU00349,Product Item 349,apparel,BrandA,106.43,,1
+SKU00350,Product Item 350,Seasonal,BrandC,88.0,$20.39,1
+SKU00351,Product Item 351,Seasonal,BrandE,189.64,201.5,1
+SKU00352,Product Item 352,Electronics,BrandD,$117.90,160.84,1
+SKU00353,Product Item 353,apparel,BrandI,163.68,301.76,1
+SKU00354,Product Item 354,Apparel,BrandD,16.81,$346.96,1
+SKU00355,Product Item 355,Electronics,BrandG,108.01,312.53,1
+SKU00356,Product Item 356,HOME ,BrandJ,$175.90,310.08,N
+SKU00357,Product Item 357,Electronics,BrandJ,184.39,119.59,N
+SKU00358,Product Item 358,apparel,BrandM,89.94,316.85,1
+SKU00359,Product Item 359,HOME ,BrandE,19.45,331.94,0
+SKU00360,Product Item 360,Home,BrandE,37.09,308.55,
+sku00361,Product Item 361,HOME ,BrandI,128.47,6.89,0
+SKU00362,Product Item 362,apparel,BrandI,166.17,72.16,1
+SKU00363,Product Item 363,apparel,BrandM,132.36,174.06,1
+SKU00364,Product Item 364,Apparel,BrandN,117.64,216.54,1
+SKU00365,Product Item 365,Electronics,BrandO,82.15,224.16,1
+SKU00366,Product Item 366,PersonalCare,BrandM,190.53,89.86,
+SKU00367,Product Item 367,Seasonal,BrandL,107.12,322.82,0
+SKU00368,Product Item 368,Seasonal,BrandE,84.5,108.81,N
+sku00369,Product Item 369,PersonalCare,BrandH,117.78,92.35,0
+SKU00370,Product Item 370,Seasonal,BrandI,187.44,49.4,0
+ SKU00371 ,Product Item 371,Home,BrandE,111.76,376.55,1
+SKU00372,Product Item 372,HOME ,BrandH,15.07,27.01,1
+SKU00373,Product Item 373,apparel,BrandM,198.01,120.67,1
+SKU00374,Product Item 374,PersonalCare,BrandG,,252.04,1
+SKU00375,Product Item 375,PersonalCare,BrandH,106.65,57.5,1
+SKU00376,Product Item 376,Seasonal,BrandK,10.15,365.05,1
+SKU00377,Product Item 377,Apparel,BrandF,44.25,293.32,1
+SKU00378,Product Item 378,Electronics,BrandG,121.6,86.09,1
+SKU00379,Product Item 379,Electronics,BrandA,72.71,228.77,
+SKU00380,Product Item 380,Home,BrandI,30.64,373.76,
+SKU00381,Product Item 381,Electronics,BrandL,191.89,75.74,1
+SKU00382,Product Item 382,apparel,BrandC,89.55,94.61,0
+SKU00383,Product Item 383,PersonalCare,BrandM,149.21,330.2,N
+SKU00384,Product Item 384,HOME ,BrandG,49.44,191.47,1
+SKU00385,Product Item 385,PersonalCare,BrandD,12.51,230.08,1
+SKU00386,Product Item 386,Apparel,BrandC,2.46,6.81,1
+SKU00387,Product Item 387,apparel,BrandM,58.85,242.98,1
+SKU00388,Product Item 388,Seasonal,BrandE,157.97,133.47,N
+SKU00389,Product Item 389,Seasonal,BrandO,65.85,174.67,1
+SKU00390,Product Item 390,apparel,BrandN,119.6,278.09,1
+SKU00391,Product Item 391,Electronics,BrandF,$83.85,16.10,1
+SKU00392,Product Item 392,Home,BrandA,165.32,287.26,N
+SKU00393,Product Item 393,Eletronics,BrandM,90.64,291.94,1
+SKU00394,Product Item 394,PersonalCare,BrandL,70.62,$355.69,Y
+SKU00395,Product Item 395,HOME ,BrandG,47.32,52.45,1
+SKU00396,Product Item 396,apparel,BrandF,45.86,$129.98,1
+SKU00397,Product Item 397,Eletronics,BrandK,173.98,165.22,1
+SKU00398,Product Item 398,PersonalCare,BrandD,189.75,268.46,1
+SKU00399,Product Item 399,Apparel,BrandC,129.55,75.44,
+SKU00400,Product Item 400,PersonalCare,BrandH,123.88,334.6,
+SKU00401,Product Item 401,apparel,BrandM,198.16,353.79,1
+SKU00402,Product Item 402,Electronics,BrandI,152.92,118.13,1
+SKU00403,Product Item 403,Seasonal,BrandA,46.52,139.0,
+SKU00404,Product Item 404,Apparel,BrandM,91.65,391.63,1
+SKU00405,Product Item 405,Apparel,BrandE,,186.73,1
+SKU00406,Product Item 406,apparel,BrandJ,49.91,203.66,
+SKU00407,Product Item 407,Electronics,BrandB,15.98,,1
+SKU00408,Product Item 408,Home,BrandL,51.3,114.62,0
+SKU00409,Product Item 409,apparel,BrandK,27.18,221.96,N
+SKU00410,Product Item 410,apparel,BrandB,184.32,219.0,1
+SKU00411,Product Item 411,PersonalCare,BrandC,134.94,$62.55,1
+SKU00412,Product Item 412,Electronics,BrandA,139.66,208.2,1
+SKU00413,Product Item 413,apparel,BrandD,196.61,245.24,1
+SKU00414,Product Item 414,Eletronics,BrandO,74.2,279.46,1
+ SKU00415 ,Product Item 415,Home,BrandC,147.93,96.11,0
+SKU00416,Product Item 416,Electronics,BrandE,93.87,262.55,1
+SKU00417,Product Item 417,Apparel,BrandO,195.59,$366.38,1
+SKU00418,Product Item 418,Electronics,BrandH,69.05,43.07,0
+SKU00419,Product Item 419,apparel,BrandC,86.03,118.74,1
+ SKU00420 ,Product Item 420,Electronics,BrandB,74.43,232.35,1
+SKU00421,Product Item 421,Eletronics,BrandO,79.22,48.32,0
+SKU00422,Product Item 422,Home,BrandK,$93.66,85.89,Y
+SKU00423,Product Item 423,Seasonal,BrandC,193.78,261.82,1
+SKU00424,Product Item 424,apparel,BrandK,176.92,144.87,1
+SKU00425,Product Item 425,HOME ,BrandN,148.07,277.45,1
+SKU00426,Product Item 426,Electronics,BrandN,30.06,211.98,
+SKU00427,Product Item 427,HOME ,BrandF,152.89,$373.61,N
+SKU00428,Product Item 428,Eletronics,BrandG,49.0,65.63,N
+SKU00429,Product Item 429,Seasonal,BrandK,135.59,398.7,1
+sku00430,Product Item 430,Apparel,BrandL,77.68,307.58,1
+SKU00431,Product Item 431,HOME ,BrandI,16.92,300.61,1
+SKU00432,Product Item 432,Seasonal,BrandB,143.43,319.16,1
+SKU00433,Product Item 433,apparel,BrandO,54.44,280.0,1
+sku00434,Product Item 434,Apparel,BrandA,49.72,281.35,1
+SKU00435,Product Item 435,apparel,BrandF,98.58,87.97,1
+SKU00436,Product Item 436,Seasonal,BrandL,124.76,32.01,N
+SKU00437,Product Item 437,Seasonal,BrandK,197.13,286.12,1
+SKU00438,Product Item 438,Seasonal,BrandG,198.53,156.62,
+SKU00439,Product Item 439,Seasonal,BrandC,82.97,107.88,1
+SKU00440,Product Item 440,HOME ,BrandN,51.17,345.98,Y
+SKU00441,Product Item 441,Seasonal,BrandE,94.91,300.96,
+SKU00442,Product Item 442,Eletronics,BrandJ,140.3,287.18,0
+SKU00443,Product Item 443,apparel,BrandB,79.04,191.13,
+SKU00444,Product Item 444,Apparel,BrandO,78.42,298.51,1
+SKU00445,Product Item 445,Eletronics,BrandE,$31.79,156.24,N
+SKU00446,Product Item 446,apparel,BrandF,124.11,183.13,1
+ SKU00447 ,Product Item 447,HOME ,BrandO,60.1,7.14,1
+SKU00448,Product Item 448,Electronics,BrandO,$144.14,346.74,
+SKU00449,Product Item 449,Seasonal,BrandE,80.6,330.92,1
+SKU00450,Product Item 450,Apparel,BrandN,180.89,,1
+SKU00451,Product Item 451,HOME ,BrandF,106.53,299.28,1
+SKU00452,Product Item 452,Electronics,BrandB,187.65,68.26,N
+SKU00453,Product Item 453,Seasonal,BrandE,,179.32,1
+SKU00454,Product Item 454,Electronics,BrandJ,44.43,148.55,1
+SKU00455,Product Item 455,HOME ,BrandG,153.79,264.1,1
+SKU00456,Product Item 456,HOME ,BrandK,145.36,212.88,1
+SKU00457,Product Item 457,Home,BrandB,121.49,304.38,0
+SKU00458,Product Item 458,HOME ,BrandB,149.07,72.2,1
+SKU00459,Product Item 459,Eletronics,BrandH,75.92,242.24,1
+SKU00460,Product Item 460,HOME ,BrandH,118.45,15.76,1
+SKU00461,Product Item 461,Electronics,BrandD,29.35,206.43,1
+sku00462,Product Item 462,Home,BrandF,67.98,41.72,1
+SKU00463,Product Item 463,PersonalCare,BrandE,51.23,385.3,N
+SKU00464,Product Item 464,Home,BrandH,51.94,196.32,1
+ SKU00465 ,Product Item 465,Seasonal,BrandJ,197.92,94.31,1
+SKU00466,Product Item 466,Seasonal,BrandC,73.84,61.53,1
+SKU00467,Product Item 467,Eletronics,BrandB,147.14,118.74,1
+SKU00468,Product Item 468,Electronics,BrandE,136.87,122.97,1
+SKU00469,Product Item 469,Eletronics,BrandN,37.96,$86.42,1
+SKU00470,Product Item 470,Eletronics,BrandF,55.57,53.93,1
+SKU00471,Product Item 471,PersonalCare,BrandD,101.08,254.07,1
+SKU00472,Product Item 472,PersonalCare,BrandD,55.26,$64.52,1
+ SKU00473 ,Product Item 473,Eletronics,BrandN,170.4,96.1,0
+sku00474,Product Item 474,Electronics,BrandD,31.16,16.77,1
+SKU00475,Product Item 475,Home,BrandE,32.0,123.7,
+SKU00476,Product Item 476,Apparel,BrandK,39.59,284.09,1
+SKU00477,Product Item 477,PersonalCare,BrandC,119.91,304.34,1
+SKU00478,Product Item 478,PersonalCare,BrandO,186.81,374.22,1
+sku00479,Product Item 479,PersonalCare,BrandB,73.23,302.08,N
+SKU00480,Product Item 480,Seasonal,BrandG,62.09,262.65,
+SKU00481,Product Item 481,Electronics,BrandE,51.61,370.97,1
+SKU00482,Product Item 482,Electronics,BrandL,178.94,,1
+SKU00483,Product Item 483,HOME ,BrandD,197.11,296.32,1
+SKU00484,Product Item 484,Apparel,BrandL,126.17,124.79,1
+SKU00485,Product Item 485,Apparel,BrandE,32.74,135.01,1
+SKU00486,Product Item 486,Apparel,BrandJ,157.19,61.09,1
+SKU00487,Product Item 487,HOME ,BrandN,158.85,309.72,Y
+SKU00488,Product Item 488,apparel,BrandI,61.52,83.88,Y
+SKU00489,Product Item 489,Eletronics,BrandG,196.48,397.7,1
+SKU00490,Product Item 490,Electronics,BrandO,137.68,398.77,1
+SKU00491,Product Item 491,HOME ,BrandF,,14.29,1
+SKU00492,Product Item 492,Electronics,BrandO,,178.62,0
+SKU00493,Product Item 493,PersonalCare,BrandK,$48.54,394.9,1
+SKU00494,Product Item 494,Home,BrandG,180.64,368.32,1
+SKU00495,Product Item 495,apparel,BrandB,109.91,71.38,1
+SKU00496,Product Item 496,Seasonal,BrandK,67.57,59.23,N
+SKU00497,Product Item 497,apparel,BrandJ,100.85,81.27,1
+SKU00498,Product Item 498,apparel,BrandI,148.51,76.18,1
+SKU00499,Product Item 499,Home,BrandI,79.75,223.39,Y
+SKU00500,Product Item 500,HOME ,BrandO,47.5,177.23,1
+SKU00096,Product Item 96,apparel,BrandI,148.9,$262.56,1
+SKU00288,Product Item 288,Home,BrandJ,101.94,190.48,1
+SKU00427,Product Item 427,HOME ,BrandF,152.89,$373.61,N
+sku00361,Product Item 361,HOME ,BrandI,128.47,6.89,0
+SKU00187,Product Item 187,apparel,BrandC,23.83,51.96,
